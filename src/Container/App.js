@@ -17,9 +17,9 @@ class App extends Component {
 	}
 
 	// componentDidMount() {
-	// 	fetch('https://jsonplaceholder.typicode.com/users')
+	// 	fetch('https://randomuser.me/api/?results=50')
 	// 		.then(response => response.json())
-	// 		.then(users => this.setState({ robots: users }));
+	// 		.then(users => this.setState({ dispdrobots: users }));
 	// 	// console.log('componentDidMount');
 	// }
 
